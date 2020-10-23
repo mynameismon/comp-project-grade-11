@@ -1,5 +1,15 @@
-#Problem : Write a program to compute simple interest and compound interest given principle, rate and time period.
-
+"""
+_____________________________________________
+|Problem : Write a program to compute simple|
+|interest and compound interest given       |
+|principle,rate and time period.            |
+|-------------------------------------------|
+| Approach:                                 |
+| We use the input() function to receive    |
+| input from the user and the print()       |
+| function to print it.                     |
+|-------------------------------------------|
+"""
 #Solution :-
 
 p = float(input("Please enter Principal amount:\n"))
