@@ -3,6 +3,7 @@
 This is the repository maintained for the computer science project of Grade 11.
 
 **How to use this repository?**
+
 - Have a GitHub account (sorta obvious, ain't it?)
 - Open the [CS50 IDE](https://ide.cs50.io) (or any other IDE you prefer, but its
   best to have git CLI)

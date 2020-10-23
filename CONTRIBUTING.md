@@ -1,4 +1,4 @@
-# How to contribute:
+# How to contribute
 
 - Run the ``init.py`` file for setting up the folder to code
 - Enter the problem number. A python file will be created with the appropriate
