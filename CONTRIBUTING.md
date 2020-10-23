@@ -1,6 +1,6 @@
 # How to contribute
 
-- Run the ``init.py`` file for setting up the folder to code
+- Run the [``init.py``](init.py) file for setting up the folder to code
 - Enter the problem number. A python file will be created with the appropriate
   problem number
 - In the python file, enter the problem number and problem statement in the
