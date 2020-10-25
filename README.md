@@ -11,7 +11,7 @@ This is the repository maintained for the computer science project of Grade 11.
     ``git clone https://github.com/mynameismon/comp-project-grade-11.git``
     If you have already been working on the repository, make sure you stash
     changes (``git stash``), so that you do not corrupt the main repository.
-    Then pull changes the changes from the master branch (``git pull master
+    Then pull changes the changes from the main branch (``git pull main
     https://github.com/mynameismon/comp-project-grade-11.git``). Dont forget to
     "unstash" your changes (``git stash``) later on!
 
