@@ -1,7 +1,7 @@
 '''
 | x – x2 /2! + x3 /3! – x4 /4! + x5 /5! – x6 /6! (Input x)                                    |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| Usage of the formula                                                                        |
 '''
 
 x = int(input("Enter x\n"))

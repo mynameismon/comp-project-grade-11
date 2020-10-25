@@ -4,9 +4,7 @@
 | largest of three numbers                  |
 |-------------------------------------------|
 | Approach:                                 |
-| We use the input() function to receive    |
-| input from the user and the print()       |
-| function to print it.                     |
+|         We use the max() function         |
 |-------------------------------------------|
 """
 

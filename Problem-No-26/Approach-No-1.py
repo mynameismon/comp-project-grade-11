@@ -1,7 +1,7 @@
 '''
 | 1+ x2 + x3 + x4 + x5 +…….. xn                                                               |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| Usage of the formula                                                                        |
 '''
 
 n = int(input("Enter n\n"))

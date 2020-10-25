@@ -1,7 +1,7 @@
 '''
 | Write a program to find the roots of the quadratic equation                                 |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| Using quadratic equation fromula                                                            |
 '''
 from math import sqrt
 a = int(input("Enter coefficient of x^2 : \n"))

@@ -1,7 +1,7 @@
 '''
 | Write a program to generate 6 random numbers between 100 and 999 and then print their mean, median and mode. |
 |--------------------------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it                  |
+| Using the random module and the sorted() function                                                            |
 '''
 
 import random

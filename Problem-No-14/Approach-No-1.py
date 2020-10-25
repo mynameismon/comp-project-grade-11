@@ -1,7 +1,7 @@
 '''
 | Write a program to input 3 sides of a triangle and prints whether it is an equilateral, isosceles or scale triangle |
 |---------------------------------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it                         |
+| Boolean comparision                                                                                                 |
 '''
 
 n = input("Enter sides, seperated by commas[,] \n")

@@ -1,7 +1,7 @@
 '''
 | Write a program to generate the Fibonacci series till first ‘n’ numbers                     |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| Usage of while-loops                                                                        |
 '''
 
 n = int(input("Enter number \n"))

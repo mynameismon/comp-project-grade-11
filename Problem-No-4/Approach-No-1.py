@@ -4,9 +4,7 @@
 | the year is a leap year or not.           |
 |-------------------------------------------|
 | Approach:                                 |
-| We use the input() function to receive    |
-| input from the user and the print()       |
-| function to print it.                     |
+|           Simple division  by 4           |
 |-------------------------------------------|
 """
 

@@ -6,7 +6,7 @@
 
 string = input("Enter a sentence...\n")
 numbers = '1234567890'
-chars = '!@#$%^&*()<>?:-"\'}+=_{|\][;//.,`~'
+chars = '!@#$%^&*()<>?:-\"\'}+=_{|\][;//.,`~'
 num_words = len(string.split())
 res = [0,0,0]
 for i in string:

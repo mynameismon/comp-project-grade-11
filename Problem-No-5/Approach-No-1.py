@@ -1,7 +1,7 @@
 '''
 | Write a program to find the area of a triangle using Heroin’s formula                       |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| Using the math module                                                                       |
 '''
 import math
 a = int(input("Side a: \n"))

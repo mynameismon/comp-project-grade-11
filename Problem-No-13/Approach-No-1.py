@@ -1,7 +1,7 @@
 '''
 | Write a program to check if the given string is a palindrome or not                         |
 |---------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it |
+| for-loop from both sides of the string                                                      |
 '''
 
 n = str(input("Enter word \n"))

@@ -1,7 +1,7 @@
 '''
-| 1+2+3... + n                                                                                  |
+| 1+2+3... + n                                                                               |
 |--------------------------------------------------------------------------------------------|
-| We use the input() function to receive input from the user and print() function to print it|
+| Usage of the formula                                                                       |
 '''
 
 n = int(input("Enter last term\n"))
