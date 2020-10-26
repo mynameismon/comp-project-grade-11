@@ -20,7 +20,7 @@ sc = input('Simple interest or compund interest?[s/c]:  ')
 while True:
     if(sc == 'c' or sc == 'C'):
         res = p*(1 + r/100)**t
-        print(f"Answer is {res}")
+        print(f"Answer is {res - p}")
         break
     elif(sc=='s' or sc == 'S' ):
         res = p*r*t/100
