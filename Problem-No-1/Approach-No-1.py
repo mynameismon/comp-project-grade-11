@@ -19,13 +19,14 @@ t = float(input("Please enter time:\n"))
 sc = input('Simple interest or compund interest?[s/c]:  ')
 while True:
     if(sc == 'c' or sc == 'C'):
-        res = p*(1 + r/100)**t
-        print(f"Answer is {res}")
+        amount = p*(1 + r/100)**t
+        interest = amount-p
+        print(f"Interest is {interest} and amount is {amount}")
         break
     elif(sc=='s' or sc == 'S' ):
-        res = p*r*t/100
-        print(f"Answer is {res}")
+        interest = p*r*t/100
+        amount = p + interest
+        print(f"Interest is {interest} and amount is {amount}")
         break
     else:
         sc = input("Simple interest or compound interest?[s/c]:  ")
-
