@@ -1,13 +1,16 @@
+
 '''
-| 1+ x2 + x3 + x4 + x5 +…….. xn                                                               |
-|---------------------------------------------------------------------------------------------|
-| Usage of the formula                                                                        |
+|Problem: Ask the user to enter a list of strings. Create a new list that contains only those strings which start with a vowel |
+|------------------------------------------------------------------------------------------------------------------------------|
+| Using split(), for-loops and if-statements                                                                                   |
 '''
 
-n = int(input("Enter n\n"))
-x = int(input("Enter x\n"))
+n = input("Input a list of strings seperated by commas[,]\n")
+res = ''
+n = n.split(',')
+vowels = 'AEIOUaeiou'
 
-res = 0
-for i in range(n+1):
-    res += x**i
+for i in n:
+    if i[0] in vowels:
+        res += i
 print(res)

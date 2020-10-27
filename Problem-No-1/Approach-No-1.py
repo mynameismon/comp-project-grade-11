@@ -30,4 +30,3 @@ while True:
         break
     else:
         sc = input("Simple interest or compound interest?[s/c]:  ")
-
