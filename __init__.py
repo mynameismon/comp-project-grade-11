@@ -1,5 +1,6 @@
 from os import getcwd
 import os
+import mdmaketoc
 
 def __init__():
   problemnumber = int(input("Enter the problem number: \n >> "))
@@ -20,3 +21,4 @@ def __init__():
 
 if __name__ == "__main__":
     __init__()
+    mdmaketoc.main()

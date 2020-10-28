@@ -1,0 +1,76 @@
+<!-- filetree -->
+
+# Table of Contents
+
+- [CONTRIBUTING.md](.\CONTRIBUTING.md)
+- [index.md](.\index.md)
+- [ISSUE_TEMPLATE.md](.\ISSUE_TEMPLATE.md)
+- [mdmaketoc.py](.\mdmaketoc.py)
+- [README.md](.\README.md)
+- [sample_file.py](.\sample_file.py)
+- [__init__.py](.\__init__.py)
+- **Problem-No-1/**
+  - [Approach-No-1.py](.\Problem-No-1\Approach-No-1.py)
+- **Problem-No-10/**
+  - [Approach-No-1.py](.\Problem-No-10\Approach-No-1.py)
+- **Problem-No-11/**
+  - [Approach-No-1.py](.\Problem-No-11\Approach-No-1.py)
+- **Problem-No-12/**
+  - [Approach-No-1.py](.\Problem-No-12\Approach-No-1.py)
+- **Problem-No-13/**
+  - [Approach-No-1.py](.\Problem-No-13\Approach-No-1.py)
+- **Problem-No-14/**
+  - [Approach-No-1.py](.\Problem-No-14\Approach-No-1.py)
+- **Problem-No-15/**
+  - [Approach-No-1.py](.\Problem-No-15\Approach-No-1.py)
+- **Problem-No-16/**
+  - [Approach-No-1.py](.\Problem-No-16\Approach-No-1.py)
+- **Problem-No-17/**
+  - [Approach-No-1.py](.\Problem-No-17\Approach-No-1.py)
+- **Problem-No-18/**
+  - [Approach-No-1.py](.\Problem-No-18\Approach-No-1.py)
+- **Problem-No-19/**
+  - [Approach-No-1.py](.\Problem-No-19\Approach-No-1.py)
+- **Problem-No-2/**
+  - [Approach-No-1.py](.\Problem-No-2\Approach-No-1.py)
+- **Problem-No-20/**
+  - [Approach-No-1.py](.\Problem-No-20\Approach-No-1.py)
+- **Problem-No-21/**
+  - [Approach-No-1.py](.\Problem-No-21\Approach-No-1.py)
+- **Problem-No-22/**
+  - [Approach-No-1.py](.\Problem-No-22\Approach-No-1.py)
+- **Problem-No-23/**
+  - [Approach-No-1.py](.\Problem-No-23\Approach-No-1.py)
+- **Problem-No-24/**
+  - [Approach-No-1.py](.\Problem-No-24\Approach-No-1.py)
+- **Problem-No-25/**
+  - [Approach-No-1.py](.\Problem-No-25\Approach-No-1.py)
+- **Problem-No-26/**
+  - [Approach-No-1.py](.\Problem-No-26\Approach-No-1.py)
+- **Problem-No-27/**
+  - [Approach-No-1.py](.\Problem-No-27\Approach-No-1.py)
+- **Problem-No-28/**
+  - [Approach-No-1.py](.\Problem-No-28\Approach-No-1.py)
+- **Problem-No-29/**
+  - [Approach-No-1.py](.\Problem-No-29\Approach-No-1.py)
+- **Problem-No-3/**
+  - [Approach-No-1.py](.\Problem-No-3\Approach-No-1.py)
+- **Problem-No-30/**
+  - [Approach-No-1.py](.\Problem-No-30\Approach-No-1.py)
+- **Problem-No-31/**
+  - [Approach-No-1.py](.\Problem-No-31\Approach-No-1.py)
+- **Problem-No-4/**
+  - [Approach-No-1.py](.\Problem-No-4\Approach-No-1.py)
+- **Problem-No-5/**
+  - [Approach-No-1.py](.\Problem-No-5\Approach-No-1.py)
+- **Problem-No-6/**
+  - [Approach-No-1.py](.\Problem-No-6\Approach-No-1.py)
+  - [Approach-No-2.py](.\Problem-No-6\Approach-No-2.py)
+- **Problem-No-7/**
+  - [Approach-No-1.py](.\Problem-No-7\Approach-No-1.py)
+- **Problem-No-8/**
+  - [Approach-No-1.py](.\Problem-No-8\Approach-No-1.py)
+- **Problem-No-9/**
+  - [Approach-No-1.py](.\Problem-No-9\Approach-No-1.py)
+
+<!-- filetreestop -->
