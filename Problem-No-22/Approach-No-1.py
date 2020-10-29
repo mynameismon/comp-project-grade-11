@@ -5,5 +5,12 @@
 '''
 
 n = int(input("Enter n\n"))
-res = [str(i) for i in range(n,0,-1) if i%2==1]
-print(' '.join(res))
+num = 1
+res = []
+
+for i in range(n):
+    res.append(num)
+    num+=2
+
+res = [str(i) for i in res]
+print(" ".join(res[::-1]))
