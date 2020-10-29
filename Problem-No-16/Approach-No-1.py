@@ -10,4 +10,5 @@ res = []
 x = len(n)
 
 res = [int(i)**x for i in n]
-print(sum(res)==int(n))
+print("Is the number an Amstrong Number?")
+print( "Yes" if sum(res)==int(n)  else "No" )

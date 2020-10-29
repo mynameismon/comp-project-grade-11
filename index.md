@@ -17,6 +17,7 @@
   - [Approach-No-1.py](.\Problem-No-11\Approach-No-1.py)
 - **Problem-No-12/**
   - [Approach-No-1.py](.\Problem-No-12\Approach-No-1.py)
+  - [Approach-No-2.py](.\Problem-No-12\Approach-No-2.py)
 - **Problem-No-13/**
   - [Approach-No-1.py](.\Problem-No-13\Approach-No-1.py)
 - **Problem-No-14/**
@@ -31,6 +32,7 @@
   - [Approach-No-1.py](.\Problem-No-18\Approach-No-1.py)
 - **Problem-No-19/**
   - [Approach-No-1.py](.\Problem-No-19\Approach-No-1.py)
+  - [Approach-No-2.py](.\Problem-No-19\Approach-No-2.py)
 - **Problem-No-2/**
   - [Approach-No-1.py](.\Problem-No-2\Approach-No-1.py)
 - **Problem-No-20/**
@@ -55,6 +57,8 @@
   - [Approach-No-1.py](.\Problem-No-29\Approach-No-1.py)
 - **Problem-No-3/**
   - [Approach-No-1.py](.\Problem-No-3\Approach-No-1.py)
+  - [Approach-No-2.py](.\Problem-No-3\Approach-No-2.py)
+  - [Approach-No-3.py](.\Problem-No-3\Approach-No-3.py)
 - **Problem-No-30/**
   - [Approach-No-1.py](.\Problem-No-30\Approach-No-1.py)
 - **Problem-No-31/**
@@ -72,5 +76,6 @@
   - [Approach-No-1.py](.\Problem-No-8\Approach-No-1.py)
 - **Problem-No-9/**
   - [Approach-No-1.py](.\Problem-No-9\Approach-No-1.py)
+  - [Approach-No-2.py](.\Problem-No-9\Approach-No-2.py)
 
 <!-- filetreestop -->
