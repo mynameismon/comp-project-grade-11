@@ -5,19 +5,17 @@
 '''
 
 string = input("Enter a sentence...\n")
-numbers = '1234567890'
 chars = '!@#$%^&*()<>?:-\"\'}+=_{|\][;//.,`~'
 num_words = len(string.split())
-res = [0,0,0]
+res = [0,0,0,0]
 for i in string:
     if i.isalpha():
         res[0] += 1
-    elif i in numbers:
+    elif i.isdigit():
         res[1] += 1
     elif i in chars:
         res[2] += 1
     else:
-        pass
-print(f'There are {num_words} word(s), {res[0]} alphabets, {res[1]} digits and {res[2]} special characters in the given string.')
-
+        res[3] +=1
+print(f'There are {num_words} word(s), {res[0]} alphabets, {res[1]} digits, {res[2]} special characters and {res[3]} spaces in the given string.')
     
