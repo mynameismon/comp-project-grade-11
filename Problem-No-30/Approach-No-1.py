@@ -27,8 +27,10 @@ while True:
     n_in = input("Enter some numbers. To exit, type exit: ")
     if n_in == "exit":
         break
-    else:
+    elif n_in.isdigit():
         n.append(int(n_in))
+    else:
+        pass
 
 nPos = []
 nNeg = []
