@@ -70,6 +70,7 @@
 - **Problem-No-6/**
   - [Approach-No-1.py](.\Problem-No-6\Approach-No-1.py)
   - [Approach-No-2.py](.\Problem-No-6\Approach-No-2.py)
+  - [Approach-No-3.py](.\Problem-No-6\Approach-No-3.py)
 - **Problem-No-7/**
   - [Approach-No-1.py](.\Problem-No-7\Approach-No-1.py)
 - **Problem-No-8/**
